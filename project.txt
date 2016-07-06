@@ -1,8 +1,15 @@
 int q=1;
 int r=5;
 int l;
-l=q+r;
-Console.WriteLine("l="+l)
+l=r-q;
+Console.WriteLine("l="+l);
+Console.ReadLine();
+
+int z=158;
+int q=517;
+int g;
+g=z*(q-z);
+Console.WriteLine("g="+g);
 Console.ReadLine();
 
 int a=5,b=6;
