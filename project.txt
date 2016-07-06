@@ -1,0 +1,6 @@
+int q=1;
+int r=5;
+int l;
+l=q+r;
+Console.WriteLine("l="+l)
+Console.ReadLine();
