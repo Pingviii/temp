@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nika is a good dog +1 +2
+=======
+nika is a good dog6
+>>>>>>> parent of 08e6ee7... Revert "my commit"
